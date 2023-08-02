@@ -1,0 +1,20 @@
+Video Tutorial SmartDB Adapter :
+================================
+
+1. http://localhost/sqltonosql/ atau http://127.0.0.1/sqltonosql
+
+2. Menu Configuration -> NoSQL Database Connection :
+
+	-> Select NoSQL Database : MongoDB, Redis, Neo4j, Cassandra
+
+3. Menu Configuration -> Input SQL Query Statement
+
+   Example : SELECT COUNT(DISTINCT Estimation_method_detailed) FROM roadmap3 ;
+
+4. Click Button "Run SmartDB Adapter"
+
+5. Please Type or Click Query Statement (SQL)
+
+6. Click Button "Run SQL"
+
+7. Finish.
